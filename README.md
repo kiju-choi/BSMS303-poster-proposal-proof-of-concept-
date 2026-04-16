@@ -46,13 +46,6 @@ scRNA-seq ──► Preprocessing ──► OT Trajectory ──► Perturbation
 │       ├── 01_preprocessing_brain.py              # Brain preprocessing
 │       ├── 02_moscot_transport_brain.py           # Brain OT trajectory inference
 │       └── 03_perturbation_integration_brain.py   # Brain CRISPRi + vulnerability scoring
-├── data/
-│   ├── raw/mmc2.xlsx                              # Kidney RSA scores (supplementary)
-│   ├── processed/transition_matrix_*.csv           # Kidney OT transition matrices
-│   ├── processed/vulnerability_scores.csv          # Kidney vulnerability results
-│   ├── fleck2022/raw/ST5_CRISPRi_enrichment.xls  # Brain CRISPRi data (supplementary)
-│   ├── fleck2022/processed/transition_matrix_*.csv # Brain OT transition matrices
-│   └── fleck2022/processed/vulnerability_scores.csv# Brain vulnerability results
 ├── validation_datasets.md      # Detailed analysis process and results per dataset
 └── README.md
 ```
