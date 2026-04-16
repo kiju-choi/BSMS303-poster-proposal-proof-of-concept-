@@ -52,11 +52,6 @@ scRNA-seq ──► Preprocessing ──► OT Trajectory ──► Perturbation
 
 ## Data
 
-### Included in this repository
-- **Perturbation source data:** `mmc2.xlsx` (kidney RSA scores), `ST5_CRISPRi_enrichment.xls` (brain CRISPRi LOR)
-- **OT transition matrices:** CSV files for all computed transitions (kidney: 3, brain: 11)
-- **Vulnerability scores:** Final VS with p-values for both datasets
-
 ### Not included (download required for Steps 1–2)
 
 | File | Size | Source | Place in |
@@ -64,7 +59,7 @@ scRNA-seq ──► Preprocessing ──► OT Trajectory ──► Perturbation
 | Kidney H5 files (×7) | ~120 MB total | [GEO: GSE181595](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE181595) | `data/raw/` |
 | `RNA_data.h5ad` | ~920 MB | [Zenodo: 10.5281/zenodo.5242913](https://doi.org/10.5281/zenodo.5242913) | `data/fleck2022/raw/` |
 
-> **Note:** Steps 1–2 (preprocessing + OT computation) require the raw H5/h5ad files above. Step 3 (perturbation integration) can run independently using the included CSV transition matrices and supplementary tables.
+> **Note:** Steps 1–2 (preprocessing + OT computation) require the raw H5/h5ad files above.
 
 ## Requirements
 
