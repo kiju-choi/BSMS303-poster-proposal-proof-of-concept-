@@ -123,7 +123,7 @@ These are not minor caveats — they define what this framework can and cannot c
 
 - Ungricht R, et al. *Genome-wide screening in human kidney organoids identifies developmental and disease-related aspects of nephrogenesis.* Cell Stem Cell (2022).
 - Fleck JS, et al. *Inferring and perturbing cell fate regulomes in human brain organoids.* Nature (2022).
-- Klein D, et al. *Mapping cells through time and space with moscot* Nature (2025).
+- Klein D, et al. *Mapping cells through time and space with moscot.* Nature (2025).
 - Schiebinger G, et al. *Optimal-transport analysis of single-cell gene expression identifies developmental trajectories in reprogramming.* Cell (2019).
 
 ## License
