@@ -105,7 +105,7 @@ The single biggest takeaway: **temporal resolution governs OT quality**. Same pi
 3. **Population-level readout:** CRISPR screens give bulk effect sizes — per-cell resolution (CROP-seq) is needed for true trajectory-resolved analysis
 4. **Temporal resolution matters more than anything else:** 3 timepoints (kidney) produce near-identity matrices that limit the entire downstream analysis
 
-These are not minor caveats — they define what this framework can and cannot claim. The natural next step is CROP-seq integration, where per-cell perturbation identity lives on the trajectory directly.
+These are not minor caveats; they define what this framework can and cannot claim. The natural next step is CROP-seq integration, where per-cell perturbation identity lives on the trajectory directly.
 
 ## References
 
@@ -116,4 +116,4 @@ These are not minor caveats — they define what this framework can and cannot c
 
 ## License
 
-Academic coursework. Not intended for clinical or diagnostic use.
+Academic coursework. Not intended for other uses. 
