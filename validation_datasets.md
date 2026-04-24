@@ -1,4 +1,4 @@
-# Validation Datasets: Process, Results, and Honest Assessment
+# Validation Datasets: Process, Results, Assessment
 
 ---
 
